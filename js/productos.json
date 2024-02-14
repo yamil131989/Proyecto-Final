@@ -4,7 +4,7 @@
     "nombre": "Samsung Galaxy S22 ",
     "descripcion":"8gb + 128gb  color verde",
     "precio": 870999,    
-    "imagen":"/../media/112023S22.png",
+    "imagen":"./../media/112023S22.png",
     "cantidad":1,
     "marca":"Samsung"
 },
@@ -13,7 +13,7 @@
     "nombre": "Samsung Galaxy S23 ",
     "descripcion":"128gb Color Phantom black",
     "precio": 999999,
-    "imagen": "../media/012023F.png",
+    "imagen": "/media/012023F.png",
     "cantidad":1,
     "marca":"Samsung"
 },
@@ -22,7 +22,7 @@
     "nombre": "Motorola Razr 40 ",
     "descripcion":"256gb Gris Mate + vidrio templado",
     "precio": 1898550,
-    "imagen": "../media/012024F.png",
+    "imagen": "./../media/012024F.png",
     "cantidad":1,
     "marca":"Motorola"
 },
