@@ -1,0 +1,119 @@
+.listaComprar{
+    /* carrito tamaño */
+    
+    /* width: 30%; */
+    width: 650px;
+    margin: 0 40%;
+    max-height: 50vh;
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    flex-direction:column;
+    gap: 0.5em;;
+    align-items:flex-end;
+    position:absolute;    
+    overflow:auto;
+    z-index:9;
+    top: 12vh;
+    
+}
+.listaProductosComprar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(5, 5, 5);
+    color: rgb(252, 252, 252);
+    width: 100%;
+    
+}
+
+.titulo{
+    justify-self: start;
+    color: azure;
+    margin-left: 10px;
+}
+
+.cerrarLista{
+    cursor: pointer;
+    color: azure;
+    margin-right: 10px;
+}
+
+.listaComprar > .contenidoDelCarrito{
+    /* referencia:listaComprar */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    align-items: center;
+    /* width: 50%;  ligado a */
+    width: 100%;
+    height: 5rem;
+    margin-left: 5px;
+    margin-right: 5px;
+    /* margin-left: 2px;
+    margin-left: 2px; */
+    
+    background-color: rgb(158, 158, 158);
+}
+
+.imagenProductoCarrito {
+    width: 4rem;
+    border-radius: 1rem;
+    margin-left: 10px;
+}
+.nombreProductoCarrito{
+    /* font-size:large; v1*/ 
+    font-size:medium;
+    
+}
+.precioProductoCarrito{
+    /* font-size: large; v1*/
+    font-size:medium;
+    margin-right: 10px;
+}
+.totalCarrito{
+    font-size: 25px;
+    padding-bottom: 20px;
+    text-align:left;
+    margin-right: 10px;
+   
+}
+.vaciarCarrito{
+    font-size: 20px;
+    width: 100px;
+    background-color: rgb(245, 0, 0);
+    text-align: center ;
+    color: azure;
+    cursor: pointer;
+    margin: 10px;
+    border: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-style: solid rgb(112, 110, 110);
+}
+
+.eliminarProd{
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.cantItemsCarrito {
+    background-color: red;
+    color: white;
+    position: absolute;
+    display: none;
+    font-size: medium;
+}    
+
+.menosUnidad {
+    cursor: pointer;
+}
+
+.masUnidad {
+    cursor: pointer;
+}
+.eliminarProducto {
+    cursor: pointer;
+        
+}

@@ -1,0 +1,65 @@
+.navbar{
+    position: sticky;
+    z-index: 3;
+    top: 0s;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+    background-color: black;
+}
+.navbar-brand{
+    justify-self: start;
+    margin-left: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.navbar-brand:hover{
+    color: red;
+}
+
+.botonCarrito{
+    font-size: 30px;
+    margin-right: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: black;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(254, 255, 255);
+}
+a:hover{
+    color: red;
+}
+h1{
+    text-decoration: none;
+    color: rgb(254, 255, 255);
+    
+}
+h1:hover{
+    color: red;
+}
+.botonLogin{
+    font-size: 30px;
+    margin-right: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: black;
+}
+.verCarrito{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo {
+    color:black
+}
+.cerrarLista{
+    color: black;
+}

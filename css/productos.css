@@ -1,0 +1,57 @@
+.productosVenta{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.tarjeta{
+    width: 350px;
+    height: 460px;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+}
+.imagenProducto{
+    width: 250px;
+    height: 300px;
+}
+
+.precioProducto{
+    color: blue;
+    font-size: 22px;
+}
+.idProducto{
+    display: none;
+}
+
+.nombreProducto {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 350px;
+}
+
+.descProducto {
+    font-size: 14px;
+    font-style: oblique;   
+}
+
+.tarjeta .btnComprar{    
+    /* border: 1px; */
+    outline: 15px;
+    padding: 12px;
+    color: azure;
+    background-color: rgb(88, 88, 88);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.tarjeta .btnComprar:hover{
+    background-color: blue;
+}
+
