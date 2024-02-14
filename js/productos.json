@@ -4,7 +4,7 @@
     "nombre": "Samsung Galaxy S22 ",
     "descripcion":"8gb + 128gb  color verde",
     "precio": 870999,    
-    "imagen":"../media/112023S22.png",
+    "imagen":"/../media/112023S22.png",
     "cantidad":1,
     "marca":"Samsung"
 },
