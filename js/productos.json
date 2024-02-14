@@ -13,7 +13,7 @@
     "nombre": "Samsung Galaxy S23 ",
     "descripcion":"128gb Color Phantom black",
     "precio": 999999,
-    "imagen": "/media/012023F.png",
+    "imagen": "./media/012023F.png",
     "cantidad":1,
     "marca":"Samsung"
 },
@@ -22,7 +22,7 @@
     "nombre": "Motorola Razr 40 ",
     "descripcion":"256gb Gris Mate + vidrio templado",
     "precio": 1898550,
-    "imagen": "./../media/012024F.png",
+    "imagen": "./media/012024F.png",
     "cantidad":1,
     "marca":"Motorola"
 },
@@ -31,7 +31,7 @@
     "nombre": "Motorola Edge 30 Fusion ",
     "descripcion":"12gb Ram - 256gb - 50mp",
     "precio": 2095123,
-    "imagen": "../media/082023F.png",
+    "imagen": "./media/082023F.png",
     "cantidad":1,
     "marca":"Motorola"
 },
@@ -40,7 +40,7 @@
     "nombre": "Xiaomi 13T Pro  ",   
     "descripcion":"Dual SIM 512 GB negro 12 GB RAM",
     "precio": 1499999,
-    "imagen": "../media/102023F.png",
+    "imagen": "./media/102023F.png",
     "cantidad":1,
     "marca":"Xiaomi"
 },
@@ -49,7 +49,7 @@
     "nombre": "Apple iPhone 15 Pro ",
     "descripcion":" 1Tb - Negro - 8 E Sim",
     "precio": 1700000,
-    "imagen": "../media/092023F.png",
+    "imagen": "./media/092023F.png",
     "cantidad":1,
     "marca":"Apple"
 },
@@ -58,7 +58,7 @@
     "nombre": "Apple iPhone 14 Pro Max ",
     "descripcion":"1 Tb - Negro - Dual Sim",
     "precio": 1999999,
-    "imagen": " ../media/082023X.png",
+    "imagen": " ./media/082023X.png",
     "cantidad":1,
     "marca":"Apple"
 },
@@ -67,7 +67,7 @@
     "nombre": "Sony Xperia 1V ",
     "descripcion":"12gb Ram 256 Gb 2 Chips",
     "precio": 3523405,
-    "imagen": "../media/092023X.png",
+    "imagen": "./media/092023X.png",
     "cantidad":1,
     "marca":"Sony Xperia"
 },
@@ -76,7 +76,7 @@
     "nombre": "Samsung Galaxy Z Fold5 5g ",
     "descripcion":"Dual-sim 256 Gb / 12 Gb Ram Blue",
     "precio": 3459999,
-    "imagen": " ../media/082023S.png",
+    "imagen": " ./media/082023S.png",
     "cantidad":1,
     "marca":"Samsung"
 },
@@ -85,7 +85,7 @@
     "nombre": "Huawei Mate 30 Pro ",
     "descripcion":"Dual SIM 256 GB púrpura cósmico 8 GB RAM",
     "precio": 2499999,
-    "imagen": " ../media/052020F.png",
+    "imagen": " ./media/052020F.png",
     "cantidad":1,
     "marca":"Huawei"
 },
@@ -94,7 +94,7 @@
     "nombre": " Xiaomi Redmi Note 11 ",
     "descripcion":"4gb Ram 128gb Rom Color Azul",
     "precio": 250000,
-    "imagen": " ../media/012024X.png",
+    "imagen": "./media/012024X.png",
     "cantidad":1,
     "marca":"Xiaomi"
 },
@@ -103,7 +103,7 @@
     "nombre": "CAT S62 Pro ",
     "descripcion":"Dual SIM 128 GB negro 6 GB RAM",
     "precio": 1149990,
-    "imagen": "../media/112023F.png",
+    "imagen": "./media/112023F.png",
     "cantidad":1,
     "marca":"CAT"
 }]
